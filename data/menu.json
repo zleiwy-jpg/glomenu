@@ -1,0 +1,13 @@
+{
+    "restaurant": {
+        "name": "Cratos Restaurant",
+        "powered_by": "gloMenu",
+        "phone": "+994 12 555 05 05",
+        "address": "Nizami küç. 34, Bakı",
+        "hours": "10:00 – 23:00, hər gün",
+        "wifi": "Cratos_Guest / 12345678",
+        "currency": "₼"
+    },
+    "categories": [],
+    "items": []
+}

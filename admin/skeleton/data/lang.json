@@ -1,0 +1,320 @@
+{
+    "en": {
+        "cats": {
+            "salat": "Salads",
+            "esas": "Main Dishes",
+            "asiya": "Sushi & Asia",
+            "desert": "Desserts"
+        },
+        "dishes": {
+            "3": {
+                "name": "Caesar Salad",
+                "desc": "Grated cheese, croutons, chicken fillet, tomato, lettuce"
+            },
+            "6": {
+                "name": "Greek Salad",
+                "desc": "Chicken fillet, iceberg lettuce, parmesan, croutons, Caesar dressing"
+            },
+            "7": {
+                "name": "Creamy Chicken Pasta",
+                "desc": "Fettuccine, chicken fillet, cream, parmesan, mushrooms",
+                "ing": ["Fettuccine", "Chicken fillet", "Cream", "Parmesan", "Mushrooms"]
+            },
+            "8": {
+                "name": "Grilled Steak",
+                "desc": "Beef entrecote, grilled vegetables, butter, rosemary",
+                "ing": ["Beef entrecote", "Grilled vegetables", "Butter", "Rosemary"]
+            },
+            "9": {
+                "name": "Sushi Set (24 pcs)",
+                "desc": "Philadelphia, California, sesame tuna, ginger, wasabi, soy sauce",
+                "ing": ["Philadelphia", "California", "Sesame tuna", "Ginger", "Wasabi", "Soy sauce"]
+            },
+            "10": {
+                "name": "Ramen Soup",
+                "desc": "Egg noodles, chicken broth, egg, mushrooms, spring onion",
+                "ing": ["Egg noodles", "Chicken broth", "Egg", "Mushrooms", "Spring onion"]
+            },
+            "11": {
+                "name": "Berry Pancakes",
+                "desc": "Pancakes, strawberry, blueberry, maple syrup, cream",
+                "ing": ["Pancakes", "Strawberry", "Blueberry", "Maple syrup", "Cream"]
+            },
+            "12": {
+                "name": "Strawberry Donut",
+                "desc": "Donut, strawberry glaze, chocolate crumbs",
+                "ing": ["Donut", "Strawberry glaze", "Chocolate crumbs"]
+            },
+            "13": {
+                "name": "Chocolate Fondant",
+                "desc": "Dark chocolate, butter, egg, vanilla ice cream",
+                "ing": ["Dark chocolate", "Butter", "Egg", "Vanilla ice cream"]
+            },
+            "14": {
+                "name": "Tomato & Eggs",
+                "desc": "Fresh tomatoes, eggs, butter, herbs",
+                "ing": ["Fresh tomatoes", "Eggs", "Butter", "Herbs"]
+            },
+            "15": {
+                "name": "Beef Govurma",
+                "desc": "Beef, tail fat, onion, spices",
+                "ing": ["Beef", "Tail fat", "Onion", "Spices"]
+            },
+            "16": {
+                "name": "Tomato Soup",
+                "desc": "Tomato, cream, basil, croutons",
+                "ing": ["Tomato", "Cream", "Basil", "Croutons"]
+            }
+        },
+        "ui": {
+            "searchPh": "Search dishes — e.g. burger, pizza…",
+            "loc": "Location",
+            "contact": "Contact",
+            "langLbl": "Language",
+            "emptyTitle": "Nothing found",
+            "emptySub": "Try a different search — e.g. “burger”, “pizza”.",
+            "resetSearch": "Clear search",
+            "ingTitle": "Ingredients",
+            "ingShow": "View ingredients",
+            "ingHide": "Hide ingredients",
+            "ingLoading": "Loading…",
+            "rateBtn": "Rate",
+            "reportBtn": "Report",
+            "rateTitle": "Rate this dish",
+            "reportTitle": "Report a problem",
+            "rateSend": "Send",
+            "reportSend": "Send report",
+            "reportPh": "Short comment (optional)",
+            "reasons": ["Taste", "Quality", "Portion", "Cleanliness", "Other"],
+            "waiterTitle": "Call the waiter",
+            "waiterSub": "Select your table — the call goes straight to the kitchen screen.",
+            "tableLbl": "Table number",
+            "tableOpt": "Table",
+            "noteLbl": "Note (optional)",
+            "notePh": "E.g. bill, please",
+            "waiterSend": "Send call",
+            "waiterOk": "✓ Call sent. The waiter is on the way.",
+            "rateOk": "✓ Your vote is saved. Thank you!",
+            "reportOk": "✓ Report received. We are sorry!",
+            "needStars": "Please select stars.",
+            "needReason": "Please select a reason.",
+            "sendErr": "Something went wrong, try again.",
+            "sending": "Sending…",
+            "voted": "✓ You have already voted. Thank you!",
+            "rights": "All rights reserved.",
+            "detailSuffix": "— view details"
+        }
+    },
+    "ru": {
+        "cats": {
+            "salat": "Салаты",
+            "esas": "Основные блюда",
+            "asiya": "Суши и Азия",
+            "desert": "Десерты"
+        },
+        "dishes": {
+            "3": {
+                "name": "Салат Цезарь",
+                "desc": "Тертый сыр, сухарики, куриное филе, помидор, салат"
+            },
+            "6": {
+                "name": "Греческий салат",
+                "desc": "Куриное филе, салат айсберг, пармезан, сухарики, соус Цезарь"
+            },
+            "7": {
+                "name": "Паста с курицей в сливках",
+                "desc": "Феттуччине, куриное филе, сливки, пармезан, грибы",
+                "ing": ["Феттуччине", "Куриное филе", "Сливки", "Пармезан", "Грибы"]
+            },
+            "8": {
+                "name": "Стейк на гриле",
+                "desc": "Говяжий антрекот, овощи гриль, сливочное масло, розмарин",
+                "ing": ["Говяжий антрекот", "Овощи гриль", "Сливочное масло", "Розмарин"]
+            },
+            "9": {
+                "name": "Суши-сет (24 шт)",
+                "desc": "Филадельфия, Калифорния, тунец в кунжуте, имбирь, васаби, соевый соус",
+                "ing": ["Филадельфия", "Калифорния", "Тунец в кунжуте", "Имбирь", "Васаби", "Соевый соус"]
+            },
+            "10": {
+                "name": "Суп Рамен",
+                "desc": "Яичная лапша, куриный бульон, яйцо, грибы, зелёный лук",
+                "ing": ["Яичная лапша", "Куриный бульон", "Яйцо", "Грибы", "Зелёный лук"]
+            },
+            "11": {
+                "name": "Панкейки с ягодами",
+                "desc": "Панкейки, клубника, голубика, кленовый сироп, крем",
+                "ing": ["Панкейки", "Клубника", "Голубика", "Кленовый сироп", "Крем"]
+            },
+            "12": {
+                "name": "Донат с клубникой",
+                "desc": "Донат, клубничная глазурь, шоколадная крошка",
+                "ing": ["Донат", "Клубничная глазурь", "Шоколадная крошка"]
+            },
+            "13": {
+                "name": "Шоколадный фондан",
+                "desc": "Тёмный шоколад, сливочное масло, яйцо, ванильное мороженое",
+                "ing": ["Тёмный шоколад", "Сливочное масло", "Яйцо", "Ванильное мороженое"]
+            },
+            "14": {
+                "name": "Яичница с помидорами",
+                "desc": "Свежие помидоры, яйца, сливочное масло, зелень",
+                "ing": ["Свежие помидоры", "Яйца", "Сливочное масло", "Зелень"]
+            },
+            "15": {
+                "name": "Говурма из говядины",
+                "desc": "Говядина, курдюк, лук, специи",
+                "ing": ["Говядина", "Курдюк", "Лук", "Специи"]
+            },
+            "16": {
+                "name": "Томатный суп",
+                "desc": "Помидоры, сливки, базилик, сухарики",
+                "ing": ["Помидоры", "Сливки", "Базилик", "Сухарики"]
+            }
+        },
+        "ui": {
+            "searchPh": "Поиск блюд — напр. бургер, пицца…",
+            "loc": "Локация",
+            "contact": "Контакты",
+            "langLbl": "Язык",
+            "emptyTitle": "Ничего не найдено",
+            "emptySub": "Измените запрос — напр. «бургер», «пицца».",
+            "resetSearch": "Очистить поиск",
+            "ingTitle": "Состав",
+            "ingShow": "Показать состав",
+            "ingHide": "Скрыть состав",
+            "ingLoading": "Загрузка…",
+            "rateBtn": "Оценить",
+            "reportBtn": "Пожаловаться",
+            "rateTitle": "Оцените блюдо",
+            "reportTitle": "Сообщите о проблеме",
+            "rateSend": "Отправить",
+            "reportSend": "Отправить жалобу",
+            "reportPh": "Краткий комментарий",
+            "reasons": ["Вкус", "Качество", "Порция", "Чистота", "Другое"],
+            "waiterTitle": "Вызов официанта",
+            "waiterSub": "Выберите стол — вызов попадёт на экран кухни.",
+            "tableLbl": "Номер стола",
+            "tableOpt": "Стол",
+            "noteLbl": "Комментарий (необязательно)",
+            "notePh": "Напр. счёт, пожалуйста",
+            "waiterSend": "Отправить вызов",
+            "waiterOk": "✓ Вызов отправлен. Официант подойдёт.",
+            "rateOk": "✓ Ваш голос учтён. Спасибо!",
+            "reportOk": "✓ Жалоба принята. Приносим извинения!",
+            "needStars": "Пожалуйста, выберите звёзды.",
+            "needReason": "Пожалуйста, выберите причину.",
+            "sendErr": "Произошла ошибка, попробуйте ещё раз.",
+            "sending": "Отправка…",
+            "voted": "✓ Вы уже поставили оценку. Спасибо!",
+            "rights": "Все права защищены.",
+            "detailSuffix": "— подробнее"
+        }
+    },
+    "tr": {
+        "cats": {
+            "salat": "Salatalar",
+            "esas": "Ana Yemekler",
+            "asiya": "Suşi ve Asya",
+            "desert": "Tatlılar"
+        },
+        "dishes": {
+            "3": {
+                "name": "Sezar Salata",
+                "desc": "Rendelenmiş peynir, kruton, tavuk fileto, domates, marul"
+            },
+            "6": {
+                "name": "Yunan Salatası",
+                "desc": "Tavuk fileto, aysberg marul, parmesan, kruton, sezar sos"
+            },
+            "7": {
+                "name": "Kremalı Tavuklu Makarna",
+                "desc": "Fettuccine, tavuk fileto, krema, parmesan, mantar",
+                "ing": ["Fettuccine", "Tavuk fileto", "Krema", "Parmesan", "Mantar"]
+            },
+            "8": {
+                "name": "Izgara Steak",
+                "desc": "Dana antrikot, ızgara sebze, tereyağı, biberiye",
+                "ing": ["Dana antrikot", "Izgara sebze", "Tereyağı", "Biberiye"]
+            },
+            "9": {
+                "name": "Suşi Set (24 adet)",
+                "desc": "Philadelphia, California, susamlı ton balığı, zencefil, wasabi, soya sosu",
+                "ing": ["Philadelphia", "California", "Susamlı ton balığı", "Zencefil", "Wasabi", "Soya sosu"]
+            },
+            "10": {
+                "name": "Ramen Çorbası",
+                "desc": "Yumurtalı noodle, tavuk suyu, yumurta, mantar, yeşil soğan",
+                "ing": ["Yumurtalı noodle", "Tavuk suyu", "Yumurta", "Mantar", "Yeşil soğan"]
+            },
+            "11": {
+                "name": "Meyveli Pankek",
+                "desc": "Pankek, çilek, yaban mersini, akçaağaç şurubu, krema",
+                "ing": ["Pankek", "Çilek", "Yaban mersini", "Akçaağaç şurubu", "Krema"]
+            },
+            "12": {
+                "name": "Çilekli Donut",
+                "desc": "Donut, çilek glazürü, çikolata parçacıkları",
+                "ing": ["Donut", "Çilek glazürü", "Çikolata parçacıkları"]
+            },
+            "13": {
+                "name": "Çikolatalı Fondan",
+                "desc": "Bitter çikolata, tereyağı, yumurta, vanilyalı dondurma",
+                "ing": ["Bitter çikolata", "Tereyağı", "Yumurta", "Vanilyalı dondurma"]
+            },
+            "14": {
+                "name": "Domatesli Yumurta",
+                "desc": "Taze domates, yumurta, tereyağı, yeşillik",
+                "ing": ["Taze domates", "Yumurta", "Tereyağı", "Yeşillik"]
+            },
+            "15": {
+                "name": "Dana Kavurma",
+                "desc": "Dana eti, kuyruk yağı, soğan, baharatlar",
+                "ing": ["Dana eti", "Kuyruk yağı", "Soğan", "Baharatlar"]
+            },
+            "16": {
+                "name": "Domates Çorbası",
+                "desc": "Domates, krema, fesleğen, kruton",
+                "ing": ["Domates", "Krema", "Fesleğen", "Kruton"]
+            }
+        },
+        "ui": {
+            "searchPh": "Yemek ara — örn. burger, pizza…",
+            "loc": "Konum",
+            "contact": "İletişim",
+            "langLbl": "Dil",
+            "emptyTitle": "Sonuç bulunamadı",
+            "emptySub": "Aramayı değiştirip tekrar deneyin — örn. “burger”, “pizza”.",
+            "resetSearch": "Aramayı temizle",
+            "ingTitle": "İçindekiler",
+            "ingShow": "İçeriğe bak",
+            "ingHide": "İçeriği kapat",
+            "ingLoading": "Yükleniyor…",
+            "rateBtn": "Puan ver",
+            "reportBtn": "Şikayet et",
+            "rateTitle": "Yemeği değerlendir",
+            "reportTitle": "Sorunu bildir",
+            "rateSend": "Gönder",
+            "reportSend": "Şikayeti gönder",
+            "reportPh": "Kısa yorum (isteğe bağlı)",
+            "reasons": ["Lezzet", "Kalite", "Porsiyon", "Temizlik", "Diğer"],
+            "waiterTitle": "Garson çağır",
+            "waiterSub": "Masa numaranızı seçin — çağrı doğrudan mutfak ekranına düşer.",
+            "tableLbl": "Masa numarası",
+            "tableOpt": "Masa",
+            "noteLbl": "Not (isteğe bağlı)",
+            "notePh": "Örn. hesap lütfen",
+            "waiterSend": "Çağrıyı gönder",
+            "waiterOk": "✓ Çağrı gönderildi. Garson geliyor.",
+            "rateOk": "✓ Oyunuz kaydedildi. Teşekkürler!",
+            "reportOk": "✓ Şikayetiniz alındı. Özür dileriz!",
+            "needStars": "Lütfen yıldız seçin.",
+            "needReason": "Lütfen sebep seçin.",
+            "sendErr": "Hata oluştu, tekrar deneyin.",
+            "sending": "Gönderiliyor…",
+            "voted": "✓ Zaten oy verdiniz. Teşekkürler!",
+            "rights": "Tüm hakları saklıdır.",
+            "detailSuffix": "— detaya bak"
+        }
+    }
+}

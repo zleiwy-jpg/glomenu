@@ -1,0 +1,43 @@
+{
+    "restaurant": {
+        "name": "Demo Restoran",
+        "powered_by": "gloMenu",
+        "phone": "+994 12 000 00 00",
+        "address": "Bakı",
+        "hours": "10:00 – 23:00, hər gün",
+        "wifi": "",
+        "currency": "₼"
+    },
+    "categories": [
+        {
+            "id": "burger",
+            "name": "Burgerlər"
+        },
+        {
+            "id": "desert",
+            "name": "Şirniyyat"
+        }
+    ],
+    "items": [
+        {
+            "id": 1,
+            "cat": "burger",
+            "name": "Klassik Çizburger",
+            "desc": "Dana əti, çedar, kahı, pomidor",
+            "weight": "250 q",
+            "price": 8.5,
+            "img": "",
+            "tags": []
+        },
+        {
+            "id": 2,
+            "cat": "desert",
+            "name": "Şokoladlı Fondan",
+            "desc": "Tünd şokolad, dondurma",
+            "weight": "120 q",
+            "price": 6,
+            "img": "",
+            "tags": []
+        }
+    ]
+}

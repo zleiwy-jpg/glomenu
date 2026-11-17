@@ -1,0 +1,19 @@
+{
+    "theme": 5,
+    "loader": 1,
+    "video": 1,
+    "quick": 1,
+    "search": 1,
+    "cats": 1,
+    "prices": 1,
+    "showLang": 1,
+    "patterns": 0,
+    "photos": 1,
+    "topbar": 1,
+    "footer": 1,
+    "custom": 0,
+    "custom_bg": "",
+    "custom_accent": "",
+    "custom_catbg": "",
+    "custom_qicon": "#0C0B09"
+}
